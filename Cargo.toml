@@ -1,0 +1,7 @@
+[package]
+name = "rustris"
+version = "0.1.0"
+authors = ["Jonas Winje <jonas.winje@gmail.com>"]
+
+[dependencies]
+sdl2 = "0.31"
